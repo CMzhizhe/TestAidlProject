@@ -1,0 +1,4 @@
+rootProject.name = "TestAidlApplication"
+include ':app'
+include ':modellibrary'
+include ':socketlibrary'
